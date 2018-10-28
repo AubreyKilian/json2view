@@ -1,3 +1,5 @@
+Note: 2018-10-28 - Cloned to get it to work in latest Android Studio and Gradle
+
 json2view  ![travis-ci](https://travis-ci.org/Avocarrot/json2view.svg)
 ======
 
